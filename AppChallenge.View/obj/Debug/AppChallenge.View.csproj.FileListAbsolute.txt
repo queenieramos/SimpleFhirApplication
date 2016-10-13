@@ -1,0 +1,14 @@
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\bin\Debug\AppChallenge.View.exe.config
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\bin\Debug\AppChallenge.View.exe
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\bin\Debug\AppChallenge.View.pdb
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\obj\Debug\AppChallenge.View.Properties.Resources.resources
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\obj\Debug\AppChallenge.View.csproj.GenerateResource.Cache
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\obj\Debug\AppChallenge.View.exe
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\obj\Debug\AppChallenge.View.pdb
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\bin\Debug\AppChallenge.Model.dll
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\bin\Debug\EntityFramework.dll
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\bin\Debug\AppChallenge.Model.pdb
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\bin\Debug\EntityFramework.xml
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\obj\Debug\AppChallenge.View.csprojResolveAssemblyReference.cache
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\obj\Debug\AppChallenge.View.PatientDetailsView.resources
+D:\Files\CodeProjects\AppChallenge\AppChallenge\AppChallenge.View\obj\Debug\AppChallenge.View.PatientMainView.resources
